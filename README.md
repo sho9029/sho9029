@@ -33,7 +33,8 @@ I am developing methods that push machine learning systems toward a more abstrac
 
 ## Contact
 
-Currently, I do not share personal links publicly. For inquiries or collaboration, please use GitHub Issues or Pull Requests.
+You can reach me at:  
+sho9029[at]outlook.jp
 
 ---
 
